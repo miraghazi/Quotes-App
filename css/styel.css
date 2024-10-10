@@ -1,0 +1,23 @@
+.item h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+
+.item p{
+    font-size: 29px;
+    font-family: "Noto Serif", serif;
+   
+}
+
+.item button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;   
+}
+
+.item button:hover{
+    background-color: green;
+    cursor:auto;
+      
+}
